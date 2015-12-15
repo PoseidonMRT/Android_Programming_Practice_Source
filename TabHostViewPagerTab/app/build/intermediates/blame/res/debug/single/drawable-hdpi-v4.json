@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/tuozhaobing/SunMoFruit/latest/SlidingDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_pressed.png",
+        "source": "/home/tuozhaobing/SunMoFruit/latest/SlidingDemo/app/src/main/res/drawable-hdpi/tab_pressed.png"
+    },
+    {
+        "merged": "/home/tuozhaobing/SunMoFruit/latest/SlidingDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/tuozhaobing/SunMoFruit/latest/SlidingDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tuozhaobing/SunMoFruit/latest/SlidingDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab.png",
+        "source": "/home/tuozhaobing/SunMoFruit/latest/SlidingDemo/app/src/main/res/drawable-hdpi/tab.png"
+    }
+]
